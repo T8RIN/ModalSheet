@@ -4,6 +4,7 @@ ModalSheet
 
 </h1>
 
+
 <p align="center">
   <img alt="API" src="https://img.shields.io/badge/Api%2021+-50f270?logo=android&logoColor=black&style=for-the-badge"/></a>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge"/></a>
@@ -12,8 +13,12 @@ ModalSheet
   <a href="https://hits.sh/github.com/t8rin/modalsheet/"><img alt="Hits" src="https://hits.sh/github.com/t8rin/modalsheet.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
 </p>
 
+<div align="center">
+            
 Simple customizable Material3 Modal Bottom Sheet that doesn't have issues with insets</br>
 Package also includes SwipeableV2 and ModalSheetLayout implementation
+
+</div>
 
 ## Usage
 
