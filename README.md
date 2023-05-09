@@ -1,6 +1,7 @@
 # ModalSheet
 
-Simple Material3 Modal Bottom Sheet that doesn't have issues with insets
+Simple customizable Material3 Modal Bottom Sheet that doesn't have issues with insets</br>
+Package also includes SwipeableV2 and ModalSheetLayout implementation
 
 ## Usage
 
