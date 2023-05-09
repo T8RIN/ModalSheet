@@ -13,7 +13,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shape
 import androidx.compose.ui.unit.Dp
 
-
 /**
  * Modal sheet that behaves like bottom sheet and draws over system UI.
  * Should be used on with the content which is not dependent on the outer data. For dynamic content use [ModalSheet]
